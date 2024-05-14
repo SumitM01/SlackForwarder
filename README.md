@@ -9,4 +9,15 @@
 
 ### Working Demo
 
-https://github.com/SumitM01/SlackForwarder/blob/main/Screenrecord.mp4
+https://github.com/SumitM01/SlackForwarder/assets/65524561/43aec795-fd9e-4a46-845e-aa8a723181a1
+
+### Conclusion
+
+As documented in this README file, I have invested my time in **researching 🔎, learning 📖, debugging 👨‍💻** to implement this project. If you appreciate this document please give it a ⭐, share with friends and do give it a try. Thank you for reading this! 😊
+
+### References
+- NodeJS Documentation: https://nodejs.org
+- Google
+- Claude AI - https://claude.ai
+- Ngrok Documentation: https://ngrok.com
+- Slack API Documentation: https://api.slack.com
